@@ -31,7 +31,9 @@ footer article figure div { width: 331px;height: auto;float: none;position: rela
 footer article figure div a { width: 119px;height: 108px;margin: 20px 230px;float: none;position: relative;display: block;transition: all 0.3s ease-in; }
 footer article figure div a img { width: auto;height: 80px;display: block;margin: 10px 77px;float: none;transition: all 0.3s ease-in; }
 footer article figure div a h2 { width: 213px;height: auto;display: block;position: relative;float: left;margin: 0;font-size: 0.99em;color: #fff;text-decoration: none;line-height: 1em;font-weight: 300;padding: 14px 0 0 50px;letter-spacing: 0.02em; }
-
+footer article figure div a:hover { transition: all 0.3s ease-in; transform: scale(1.05); }
+footer article figure div a:hover img { transition: all 0.3s ease-in; }
+footer article figure div a h2 { width: 213px;height: auto;display: block;position: relative;float: left;margin: 0;font-size: 0.99em;color: #fff;text-decoration: none;line-height: 1em;font-weight: 300;padding: 14px 0 0 50px;letter-spacing: 0.02em; }
 
 
 
