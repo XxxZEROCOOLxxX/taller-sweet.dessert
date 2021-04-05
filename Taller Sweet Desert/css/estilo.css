@@ -33,7 +33,7 @@ footer article figure div a img { width: auto;height: 80px;display: block;margin
 footer article figure div a h2 { width: 213px;height: auto;display: block;position: relative;float: left;margin: 0;font-size: 0.99em;color: #fff;text-decoration: none;line-height: 1em;font-weight: 300;padding: 14px 0 0 50px;letter-spacing: 0.02em; }
 footer article figure div a:hover { transition: all 0.3s ease-in; transform: scale(1.05); }
 footer article figure div a:hover img { transition: all 0.3s ease-in; }
-footer article figure div a h2 { width: 213px;height: auto;display: block;position: relative;float: left;margin: 0;font-size: 0.99em;color: #fff;text-decoration: none;line-height: 1em;font-weight: 300;padding: 14px 0 0 50px;letter-spacing: 0.02em; }
+
 
 
 
