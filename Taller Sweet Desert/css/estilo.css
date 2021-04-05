@@ -18,8 +18,8 @@ header article figure a:hover img { transition: all 0.3s ease-in; }
 header article nav { width: 415px;height: 50px;margin: 25px 0;float: right;position: relative; }
 header article nav a  { width: auto;height: auto;margin: 0;float: left;position: relative;display: block;color: #000000;text-decoration: none;font-size: 0.8em;line-height: 1em;font-weight: 500;padding: 8px 15px 8px 15px;letter-spacing: 0.08em;border-bottom: solid 2px #fff;transition: all 0.3s ease-in; }
 header article nav a.sign-up  { width: auto;height: auto;margin: 0;float: left;position: relative;display: block;color: #ffffff;text-decoration: none;font-size: 0.8em;line-height: 1em;font-weight: 500;padding: 8px 15px 8px 15px;letter-spacing: 0.08em;border-bottom: solid 2px #fff;transition: all 0.3s ease-in;border-radius: 5px;background: #f37878; }
-header article nav a:hover { color: #000;border-bottom: solid 2px #000 ; transition: all 0.3s ease-in; }
-header article nav a.sign-up:hover { color: #fff;border-bottom: solid 2px #000 ; transition: all 0.3s ease-in; }
+header article nav a:hover {  color: #000;border-bottom: solid 2px #000 ; transition: all 0.3s ease-in; }
+header article nav a.sign-up:hover { color: #fff;transform: scale(1.05);border-bottom: #f37878; transition: all 0.3s ease-in; }
 
 
 
