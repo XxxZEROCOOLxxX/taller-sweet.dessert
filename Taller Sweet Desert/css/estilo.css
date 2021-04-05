@@ -24,7 +24,7 @@ header article nav a.sign-up:hover { color: #fff;border-bottom: solid 2px #000 ;
 
 
 
-footer { width: 100%;height: auto;margin: 0;float: none;position: relative; background: #555; background-size: cover; }
+footer { width: 100%;height: auto;margin:400px 0 0 0;;float: none;position: relative; background: #555; background-size: cover; }
 footer article { width: 900px;height: 200px;margin: 0 auto;float: none;position: relative; }
 footer article figure { width: 194px;height: 100px;margin: 20px 40px;float: left;position: relative; }
 footer article figure div { width: 331px;height: auto;float: none;position: relative;display: block; }
